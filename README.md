@@ -1,1 +1,5 @@
 # Question-generation
+
+This is the code for my Computer Science Degree thesis, which obtained a 9.8 out of 10 grade. Article is available at https://ddd.uab.cat/pub/tfg/2021/tfg_132275/article_tfg_biel_castano.pdf.
+
+Automatic question generation is a process by which a computer model can obtain questions based on input - usually text. In addition to their relevance in the creation of databases that train automatic answer generation models, such models have other practical applications, such as contributing to the creation of intelligent tutor and conversational models. This article outlines the theoretical foundations and methodology behind the creation of a question generation model from a transformer, the kind of neural network architecture widely used in the state of the art of natural language processing.
